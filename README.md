@@ -7,7 +7,7 @@ CCPDashButton has been designed to work with mobile data connectivity, allowing 
 
 # Components
 A working CCPDashButton requires some components, shown in the following picture:
- 
+ ![alt text](https://github.com/fdiniro/CCPDashButton/blob/master/CCPDashButton_architecture.png "CCPDashButton architecture")<br>
 -	A Cisco Container Platform install
 -	A MQTT service
 -	A WiFi connectivity 
